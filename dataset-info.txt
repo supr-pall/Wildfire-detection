@@ -1,0 +1,3 @@
+Dataset: Fire and non-fire satellite images
+Source: Open wildfire datasets
+Purpose: Used for training wildfire detection model
